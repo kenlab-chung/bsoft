@@ -5,6 +5,7 @@
  3. 音视频服务程序开发
  4. 旧版C++调度系统维护
 ## 2、 2023时间配比
-<img width="508" alt="截屏2024-01-20 13 59 39" src="https://github.com/kenlab-chung/bsoft/assets/59462735/d0570c2d-76d5-4c93-bb0e-b967d44eabba">
+<img width="508" alt="截屏2024-01-20 14 26 41" src="https://github.com/kenlab-chung/bsoft/assets/59462735/07f3103a-8400-4409-b9cd-05c65f4c9ded">
+
 
 ## 3、 2024
