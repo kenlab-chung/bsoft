@@ -2,23 +2,23 @@
 ## :one: 2023工作
 ###  &emsp; 1.1 车载医保结算终端
  
- &emsp; &emsp; :arrow_right: 在2022年基础上增加了1/3以上功能。
+&emsp; &emsp; :arrow_right: 在2022年基础上增加了1/3以上功能。
  
- &emsp; &emsp; :arrow_right: 功能丰富：  
+&emsp; &emsp; :arrow_right: 功能丰富：  
  
- &emsp; &emsp; &emsp; * 多方位费用结算支撑： 
+&emsp; &emsp; &emsp; :pencil2: 多方位费用结算支撑： 
  
- &emsp; &emsp; &emsp; &emsp;  * 医保结算：医保卡、磁条卡、电子医保。
+&emsp; &emsp; &emsp; &emsp;  :paperclip: 医保结算：医保卡、磁条卡、电子医保。
  
- &emsp; &emsp; &emsp; &emsp;   * 自费结算：支付宝、微信、现金。
+&emsp; &emsp; &emsp; &emsp;  :paperclip: 自费结算：支付宝、微信、现金。
  
- &emsp; &emsp; &emsp; &emsp;  * 医保+自费混合结算。
+&emsp; &emsp; &emsp; &emsp;  :paperclip: 医保+自费混合结算。
  
-&emsp; &emsp; &emsp;  * 支撑病种类型齐全：33824个病种。
+&emsp; &emsp; &emsp; :pencil2: 支撑病种类型齐全：33824个病种。
 
-&emsp; &emsp; &emsp;  * 涵盖院前120急救所有收费项目。
+&emsp; &emsp; &emsp;  :pencil2:  涵盖院前120急救所有收费项目。
 
-&emsp; &emsp; &emsp;  * 实时电子发票。
+&emsp; &emsp; &emsp;  :pencil2:  实时电子发票。
  
 ### &emsp; 1.2 软交换
  * 国产化：麒麟v10 arm 平台，达梦数据库
