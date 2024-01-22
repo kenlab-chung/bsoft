@@ -31,4 +31,6 @@
 <img width="508" alt="截屏2024-01-20 14 26 41" src="https://github.com/kenlab-chung/bsoft/assets/59462735/07f3103a-8400-4409-b9cd-05c65f4c9ded">
 
 ## 3、 2024计划
+- 更多参与到院前120项目建设上来。
+- 用新技术给项目带来红利。
 
