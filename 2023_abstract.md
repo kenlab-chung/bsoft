@@ -42,6 +42,10 @@
 <img width="508" alt="截屏2024-01-20 14 26 41" src="https://github.com/kenlab-chung/bsoft/assets/59462735/07f3103a-8400-4409-b9cd-05c65f4c9ded">
 
 ## :three: 2024计划
+
+&emsp; :pushpin: 软交换能否做成单独的产品线。
+
 &emsp; :pushpin: 更多参与到院前120项目建设上来。
+
 &emsp; :pushpin: 用新技术给项目带来红利。
 
