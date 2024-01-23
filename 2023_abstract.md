@@ -22,7 +22,6 @@
 
 &emsp; &emsp; &emsp;  :file_folder:  电子公告栏。
 
-&emsp; &emsp; :pushpin: 文档参考公司wiki。
 
 &emsp; &emsp; :pushpin: 案例：嘉定120
  
@@ -33,6 +32,8 @@
 &emsp; &emsp; :pushpin: 容器化：docker云部署
  
 &emsp; &emsp; :pushpin: 新增特色功能：5G音视频通信开发。
+
+&emsp; &emsp; :pushpin: 文档参考公司wiki。
 
 &emsp; &emsp; :pushpin: 案例：张家界人民医院
       
