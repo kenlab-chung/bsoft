@@ -22,6 +22,8 @@
 
 &emsp; &emsp; &emsp;  :file_folder:  电子公告栏。
 
+&emsp; &emsp; :pushpin: 文档参考公司wiki。
+
 &emsp; &emsp; :pushpin: 案例：嘉定120
  
 ### &emsp; 1.2 软交换
@@ -35,11 +37,13 @@
 &emsp; &emsp; :pushpin: 案例：张家界人民医院
       
 ### &emsp; 1.3 音视频服务
-&emsp; &emsp; :pushpin: 解决车载端视频接入移动端、web端。
+&emsp; &emsp; :pushpin: 车载端NVR，DVR流媒体接入移动端、web端、胖客户端程序。
 
 &emsp; &emsp;  :pushpin: 支持GB28181、JT1078、RTSP、RTCP等协议。目前已接入设备：海康威视摄像终端，大华视频终端。
 
 &emsp; &emsp;  :pushpin: 容器化：docker云部署
+
+&emsp; &emsp; :pushpin: 文档参考公司wiki。
 
 &emsp; &emsp; :pushpin: 案例：嘉定120、张家界人民医院
     
