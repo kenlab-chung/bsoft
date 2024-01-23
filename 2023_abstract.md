@@ -31,7 +31,7 @@
 &emsp; &emsp; :pushpin: 新增特色功能：5G音视频通信开发。
       
 ### &emsp; 1.3 音视频服务程序
-&emsp; &emsp; :pushpin: 解决车载端视频在移动端、web端显示问题（Websocket协议）。
+&emsp; &emsp; :pushpin: 解决车载端视频接入移动端、web端。
 
 &emsp; &emsp;  :pushpin: 支持GB28181、JT1078、RTSP、RTCP等协议。目前已接入设备：海康威视摄像终端，大华视频终端。
 
