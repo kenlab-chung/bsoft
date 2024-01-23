@@ -2,7 +2,7 @@
 ## :one: 2023工作
 ###  &emsp; 1.1 车载医保结算终端
  
-&emsp; &emsp; :pushpin: 在2022年基础上增加了1/3以上功能。
+&emsp; &emsp; :pushpin: 在2022年基础上增加了1/2以上功能。
  
 &emsp; &emsp; :pushpin: 功能全面：  
  
