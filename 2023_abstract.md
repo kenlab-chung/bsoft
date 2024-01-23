@@ -4,7 +4,7 @@
  
 &emsp; &emsp; :pushpin: 在2022年基础上增加了1/3以上功能。
  
-&emsp; &emsp; :pushpin: 功能丰富：  
+&emsp; &emsp; :pushpin: 功能全面：  
  
 &emsp; &emsp; &emsp; :open_file_folder: 多方位费用结算支撑： 
  
@@ -19,6 +19,8 @@
 &emsp; &emsp; &emsp;  :file_folder:  涵盖院前120急救所有收费项目。
 
 &emsp; &emsp; &emsp;  :file_folder:  实时电子发票。
+
+&emsp; &emsp; &emsp;  :file_folder:  电子公告栏。
  
 ### &emsp; 1.2 软交换
 
