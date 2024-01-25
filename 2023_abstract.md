@@ -8,7 +8,7 @@
  
 &emsp; &emsp; &emsp; :open_file_folder: 多方位费用结算支撑： 
  
-&emsp; &emsp; &emsp; &emsp;  :o: 医保结算：医保卡、磁条卡、电子医保。包括：上海医保、国家医保。
+&emsp; &emsp; &emsp; &emsp;  :o: 医保结算：医保卡、磁条卡、电子医保。上海医保、国家医保。
  
 &emsp; &emsp; &emsp; &emsp;  :o: 自费结算：支付宝、微信、现金。
  
