@@ -52,7 +52,7 @@
 
 ## :two: 2023时间配比
 
-<img width="508" alt="截屏2024-01-20 14 26 41" src="https://github.com/kenlab-chung/bsoft/assets/59462735/07f3103a-8400-4409-b9cd-05c65f4c9ded">
+![image](https://github.com/kenlab-chung/bsoft/assets/59462735/f131e8a8-20ab-4aff-9e30-e68ace9c4d65)
 
 ## :three: 2024计划
 
